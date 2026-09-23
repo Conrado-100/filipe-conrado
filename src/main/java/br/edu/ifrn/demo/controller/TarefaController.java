@@ -1,6 +1,6 @@
 package br.edu.ifrn.demo.controller;
-import br.edu.ifrn.demo.controller.dto.TaskRequestDTO;
-import br.edu.ifrn.demo.controller.dto.TaskResponseDTO;
+import br.edu.ifrn.demo.dto.TaskRequestDTO;
+import br.edu.ifrn.demo.dto.TaskResponseDTO;
 import br.edu.ifrn.demo.model.Tarefa;
 import br.edu.ifrn.demo.service.TarefaService;
 import org.springframework.http.HttpStatus;

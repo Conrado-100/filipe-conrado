@@ -1,4 +1,4 @@
-package br.edu.ifrn.demo.controller.dto;
+package br.edu.ifrn.demo.dto;
 
 import java.time.LocalDate;
 public record TaskRequestDTO(

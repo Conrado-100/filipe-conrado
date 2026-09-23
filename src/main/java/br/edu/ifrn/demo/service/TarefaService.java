@@ -1,7 +1,7 @@
 package br.edu.ifrn.demo.service;
 
-import br.edu.ifrn.demo.controller.dto.TaskRequestDTO;
-import br.edu.ifrn.demo.controller.dto.TaskResponseDTO;
+import br.edu.ifrn.demo.dto.TaskRequestDTO;
+import br.edu.ifrn.demo.dto.TaskResponseDTO;
 import br.edu.ifrn.demo.model.Tarefa;
 import br.edu.ifrn.demo.repository.TarefaRepository;
 import org.springframework.stereotype.Service;

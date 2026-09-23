@@ -1,5 +1,6 @@
-package br.edu.ifrn.demo.dto;
+package br.edu.ifrn.demo.controller;
 
+import br.edu.ifrn.demo.dto.UsuarioResponseDTO;
 import br.edu.ifrn.demo.model.Usuario;
 import br.edu.ifrn.demo.service.UsuarioService;
 import org.springframework.http.HttpStatus;
